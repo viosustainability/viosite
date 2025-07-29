@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:g-custom="http://base.google.com/cns/1.0" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>fb68b9bc</title>
+    <link>https://www.viosustainability.com</link>
+    <description />
+    <atom:link href="https://www.viosustainability.com/feed/rss2" type="application/rss+xml" rel="self" />
+    <item>
+      <title>Consumer Habits and Behaviors Related to  Sustainable Package Labeling</title>
+      <link>https://www.viosustainability.com/consumer-habits-and-behaviors-related-to-sustainable-package-labeling</link>
+      <description />
+      <enclosure url="https://irp.cdn-website.com/md/pexels/dms3rep/multi/pexels-photo-7203699.jpeg" length="958824" type="image/jpeg" />
+      <pubDate>Thu, 04 Apr 2024 15:48:44 GMT</pubDate>
+      <guid>https://www.viosustainability.com/consumer-habits-and-behaviors-related-to-sustainable-package-labeling</guid>
+      <g-custom:tags type="string" />
+      <media:content medium="image" url="https://irp.cdn-website.com/md/pexels/dms3rep/multi/pexels-photo-7203699.jpeg">
+        <media:description>thumbnail</media:description>
+      </media:content>
+      <media:content medium="image" url="https://irp.cdn-website.com/md/pexels/dms3rep/multi/pexels-photo-7203699.jpeg">
+        <media:description>main image</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Cages from intermediate bulk containers open opportunities for moving ag plastics in Northern BC</title>
+      <link>https://www.viosustainability.com/cages-from-intermediate-bulk-containers-open-opportunities-for-moving-ag-plastics-in-northern-bc</link>
+      <description>Today, five of our six sites in the Bulkley-Nechako Regional District use the cages and trips have been easier to schedule because they only need one person. Additionally, we’ve also seen a shorter time spent on site per visit.</description>
+      <enclosure url="https://irp.cdn-website.com/d1fb5d86/dms3rep/multi/Repurposed-Bulk-Container-Cages.jpg" length="259550" type="image/jpeg" />
+      <pubDate>Thu, 04 Apr 2024 15:34:36 GMT</pubDate>
+      <guid>https://www.viosustainability.com/cages-from-intermediate-bulk-containers-open-opportunities-for-moving-ag-plastics-in-northern-bc</guid>
+      <g-custom:tags type="string" />
+      <media:content medium="image" url="https://irp.cdn-website.com/d1fb5d86/dms3rep/multi/Repurposed-Bulk-Container-Cages.jpg">
+        <media:description>thumbnail</media:description>
+      </media:content>
+      <media:content medium="image" url="https://irp.cdn-website.com/d1fb5d86/dms3rep/multi/Repurposed-Bulk-Container-Cages.jpg">
+        <media:description>main image</media:description>
+      </media:content>
+    </item>
+  </channel>
+</rss>
