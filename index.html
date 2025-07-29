@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Redirecting...</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      padding: 2rem;
+      text-align: center;
+    }
+  </style>
+  <script>
+    window.onload = function () {
+      const width = window.innerWidth;
+      if (width < 600) {
+        window.location.href = "/pages/mobile/index.html";
+      } else if (width < 1024) {
+        window.location.href = "/pages/tablet/index.html";
+      } else {
+        window.location.href = "/pages/desktop/index.html";
+      }
+    }
+  </script>
+</head>
+<body>
+  <p>Redirecting you to the best version of the site for your device...</p>
+</body>
+</html>
